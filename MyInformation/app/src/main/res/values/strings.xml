@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Nick Zakharov</string>
+    <string name="job_title">Kotlin programmer</string>
+    <string name="phone_number">+8 (904) 375 95-65</string>
+    <string name="social_media">@llayeuuo6</string>
+    <string name="email">6lo.od1ess@gmail.com</string>
+</resources>
